@@ -13,6 +13,8 @@ How does the project work?
 
 The only thing you need is to download the project and open the .html file by any browser that supports WebGL. 
 
+Press S to start, press UpArrow to change the shape of piece. Press q to quit, Press r to restart.
+
 Known issues:
 
 1. The game is laggy when there are too many objects on the screen/ you press the keyboard too fast. If you press the keyboard too fast, some functions may not work properly.
