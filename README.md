@@ -3,7 +3,7 @@
 
 What is this?
 
-This is my graphic assignment of CMPT361. A Tetris game that was established by using WebGL. 
+This is my graphic assignment of a graphic course. A Tetris game that was established by using WebGL. 
 
 This project is completed in March 2021.
 
